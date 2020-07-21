@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Belarmino</h1>
-<h3 align="center">An passionate fullstack developer from Brazil, with Portuguese nationality</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belarba" alt="belarba" /> </p>
 
 - 📫 How to reach me **belarba@gmail.com**
